@@ -1,9 +1,7 @@
 <h1> 👋 Hello, I'm Al-Amin</h1>
 
 Android Application Developer
-
 <!-- Contact me section starts here  -->
-
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
@@ -20,7 +18,6 @@ Android Application Developer
 <p align="justify">
 My Name is Al-Amin . I'm an Android  Developer. I have more than 1+ year exprience in Android Development.
 Customers satisfaction is my ultimate goal. I want to learn new topices Everyday.</p>
-
 <br />
 <!-- about-me section ends here  -->
 
@@ -37,6 +34,7 @@ Customers satisfaction is my ultimate goal. I want to learn new topices Everyday
 <img align="left" alt="python" width="45" hspace="5" src="./images/python.svg" />
 <img align="left" alt="firebase" width="45" hspace="5" src="./images/firebase.png" />
 <img align="left" alt="github" width="45" hspace="5" src="./images/github.svg" />
+<img align="left" alt="ubuntu" width="45" hspace="5" src="./images/ubuntu.png" />
 
 <br />
 <br />
