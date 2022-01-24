@@ -21,8 +21,8 @@
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-My Name is Al-Amin . I'm an Android  Developer. I have more than 1+ year exprience in Android Development.
-Customers satisfaction is my ultimate goal. I want to learn new topices Everyday.</p>
+
+My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year experience in Android App Development. Customers satisfaction is my ultimate goal. I'am try to learn new thing Everyday.</p>
 <br />
 <!-- about-me section ends here  -->
 
