@@ -1,6 +1,13 @@
 <h1> 👋 Hello, I'm Al-Amin</h1>
 
-Android Application Developer
+### Android App Developer
+
+<br/>
+
+
+### Contact me
+<br/>
+
 <!-- Contact me section starts here  -->
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
@@ -10,6 +17,7 @@ Android Application Developer
 <br />
 
 <!-- Contact me section ends here  -->
+<br/>
 
 <!-- about-me section starts here  -->
 
@@ -56,50 +64,9 @@ Customers satisfaction is my ultimate goal. I want to learn new topices Everyday
 
 <br/>
 
-<!-- work experience section starts here  -->
 
-### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-|	New Seller | Fiverr                                   | Dec 2020- Running   | Bangladesh    |
 
-<br />
-<!-- work experience section ends here  -->
-
-<!-- education section starts here  -->
-
-### 👨🏻‍🎓 &nbsp; Education
-
-1. Diploma in Computer Engineering  
-   Dinajpur Polytechnic Institute <br/>
-   Dinajpur, Bangladesh.
-
-<br />
-
-<!-- education section ends here  -->
-
-<!-- my languages section starts here  -->
-
-### Languages:
-
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Basic
-
-  <br />
-
-<!-- my languages section ends here  -->
-
-<!-- my sports and game section starts here  -->
-
-### Sports / Game / Activities / Hobby:
-
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
-<br />
-<!-- my sports and games section ends here  -->
 
 
 <!-- Links section starts here -->
