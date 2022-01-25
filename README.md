@@ -4,7 +4,7 @@
 
 <br/>
 
-<h4 align="center">Contact Me</h4></br>
+<h2 align="center">Contact Me</h2></br>
 
 
 <!-- Contact me section starts here  -->
@@ -20,7 +20,7 @@
 
 <!-- about-me section starts here  -->
 
-<h1 align="center">About Me</h1></br>
+<h1 align="center">About Me</h1></p>
 
 <p align="justify">
 My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year experience in Android App Development. Customers satisfaction is my ultimate goal. I'am try to learn new thing Everyday.</p>
@@ -31,16 +31,16 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year expe
 
 <!-- web related skills section starts here  -->
 
-<h4 align="center">My Skills</h4></br>
-<img align="center" alt="java"  width="45" hspace="5" src="./images/java.svg" />
-<img align="center" alt="android"  width="45" hspace="5" src="./images/android.svg" />
-<img align="center" alt="html5" width="45" hspace="5" src="./images/html5.svg" />
-<img align="center" alt="css3" width="45" hspace="5" src="./images/css3.svg" />
-<img align="center" alt="wordpress" width="45" hspace="5" src="./images/wordpress.png" />
-<img align="center" alt="python" width="45" hspace="5" src="./images/python.svg" />
-<img align="center" alt="firebase" width="45" hspace="5" src="./images/firebase.png" />
-<img align="center" alt="github" width="45" hspace="5" src="./images/github.svg" />
-<img align="center" alt="ubuntu" width="45" hspace="5" src="./images/ubuntu.png" />
+### 👨🏽‍💻 &nbsp; My Skills :
+<img align="left" alt="java"  width="45" hspace="5" src="./images/java.svg" />
+<img align="left" alt="android"  width="45" hspace="5" src="./images/android.svg" />
+<img align="left" alt="html5" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="wordpress" width="45" hspace="5" src="./images/wordpress.png" />
+<img align="left" alt="python" width="45" hspace="5" src="./images/python.svg" />
+<img align="left" alt="firebase" width="45" hspace="5" src="./images/firebase.png" />
+<img align="left" alt="github" width="45" hspace="5" src="./images/github.svg" />
+<img align="left" alt="ubuntu" width="45" hspace="5" src="./images/ubuntu.png" />
 
 <br />
 <br />
