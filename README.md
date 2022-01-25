@@ -1,13 +1,13 @@
 <h1 align="center"> 👋 Hello, I'm Al-Amin</h1>
 
-<h3 align="center">Android App Developer</h3></br>
+<h4 align="center"> Android App Developer </h4></br>
 
 <br/>
 
 <h1 align="center">Contact Me</h1></br>
 
-
 <!-- Contact me section starts here  -->
+
 [<img align="center" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="center" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="center" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
@@ -23,7 +23,7 @@
 <h1 align="center">About Me</h1></p>
 
 <p align="justify">
-My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year experience in Android App Development. Customers satisfaction is my ultimate goal. I'am try to learn new thing Everyday.</p>
+My Name is Al-Amin . I'm an Android App Developer. I have more than 2+ year experience in Android App Development. Customers satisfaction is my ultimate goal. I'am try to learn new thing Everyday.</p>
 <br />
 <!-- about-me section ends here  -->
 
@@ -53,33 +53,20 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year expe
 
 <!-- github stats starts here  -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin1x0&show_icons=true)  
-<br/> -->
-
-
 <h3 align="center">
   <img height=auto width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin1x0&show_icons=true&locale=en&layout=compact" alt="alamin1x0" />
 
 </h3>
 
 <h3 align="center">
-<img  align="left"  width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=alamin1x0" alt="alamin1x0"/>
+<img  align="left"  width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=alamin1x0&layout=compact" alt="alamin1x0" />
 
 
-<img align="right" height=auto width=45% src="https://github-readme-stats.vercel.app/api?username=alamin1x0&show_icons=true" alt="alamin1x0"/>
+<img align="right" height=auto width=45% src="https://github-readme-stats.vercel.app/api?username=alamin1x0&show_icons=true&layout=compact" alt="alamin1x0" />
 </h3>
-
 <!-- github stats ends here  -->
 
 <br/>
-
-
-
-
 
 
 <!-- Links section starts here -->
