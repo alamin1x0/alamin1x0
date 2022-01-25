@@ -1,10 +1,10 @@
-<h1> 👋 Hello, I'm Al-Amin</h1>
+<h1 align="center"> 👋 Hello, I'm Al-Amin</h1>
 
 <h3 align="center">Android App Developer</h3></br>
 
 <br/>
 
-<h2 align="center">Contact Me</h2></br>
+<h1 align="center">Contact Me</h1></br>
 
 
 <!-- Contact me section starts here  -->
@@ -31,7 +31,7 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year expe
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills :
+<h1 align="center">My Skills</h1></p>
 <img align="left" alt="java"  width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="android"  width="45" hspace="5" src="./images/android.svg" />
 <img align="left" alt="html5" width="45" hspace="5" src="./images/html5.svg" />
