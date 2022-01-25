@@ -52,10 +52,25 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 1+ year expe
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin1x0&show_icons=true)  
-<br/>
+<br/> -->
+
+
+<h3 align="center">
+  <img height=auto width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin1x0&show_icons=true&locale=en&layout=compact" alt="alamin1x0" />
+
+</h3>
+
+<h3 align="center">
+<img  align="left"  width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=alamin1x0" alt="alamin1x0"/>
+
+
+<img align="right" height=auto width=45% src="https://github-readme-stats.vercel.app/api?username=alamin1x0&show_icons=true" alt="alamin1x0"/>
+</h3>
 
 <!-- github stats ends here  -->
 
