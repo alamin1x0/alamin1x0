@@ -71,7 +71,7 @@ My Name is Al-Amin . I'm an Android App Developer. I have more than 3+ year expe
 
 [website]: https://developer-alamin.web.app/
 [youtube]: https://www.youtube.com/channel/UCUl5pj84NxFiglFduWqBkKw
-[facebook]: https://www.facebook.com/alamin1x0
+[facebook]: https://www.facebook.com/alamin1x0page
 [linkedin]: https://www.linkedin.com/in/alamin1x0/
 [github]: https://github.com/alamin1x0
 
