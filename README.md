@@ -76,9 +76,6 @@
     <a href="mailto:contact@developer-alamin.web.app" target="_blank">
       <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
     </a>
-    <a href="https://stackoverflow.com/users/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/💬 Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow"/>
-    </a>
   </p>
 </div>
 
@@ -120,7 +117,6 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="Amazon RDS"/>
   </div>
   
   <!-- Web Development -->
@@ -129,10 +125,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
     <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
   </div>
   
@@ -143,13 +137,10 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   </div>
   
   <!-- Programming Languages -->
@@ -157,11 +148,8 @@
   <div align="center" style="background: rgba(103, 58, 183, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-    <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   </div>
 </div>
 
@@ -179,7 +167,7 @@
   
   <!-- Stats Row 2 -->
   <div align="center" style="margin-top: 20px;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&exclude_repo=github-readme-stats&card_width=400&custom_title=Most+Used+Languages" alt="Top Languages"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=github-readme-stats&card_width=400&custom_title=Most+Used+Languages" alt="Top Languages"/>
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=alamin1x0&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers" alt="GitHub Trophies"/>
   </div>
   
@@ -255,73 +243,40 @@
 
 <br/><br/>
 
-<!-- Coding Activity -->
-<div align="center">
-  <h2>⏰ Coding Activity</h2>
-  
-  <!-- WakaTime Stats -->
-  <div align="center" style="background: rgba(0, 191, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #334155;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alamin1x0&theme=tokyonight&layout=compact&langs_count=8&custom_title=Weekly+Development+Breakdown&range=last_7_days&hide_border=true" alt="WakaTime Stats" width="80%"/>
-  </div>
-  
-  <!-- Snake Animation Alternative -->
-  <div align="center" style="margin-top: 30px;">
-    <img src="https://raw.githubusercontent.com/alamin1x0/alamin1x0/main/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%"/>
-  </div>
-</div>
-
-<br/><br/>
-
 <!-- Development Journey -->
 <div align="center">
   <h2>📈 Development Journey</h2>
   
   <div style="background: rgba(0, 191, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #334155;">
-    <pre style="color: #00BFFF; font-family: 'Fira Code', monospace;">
-    📅 2022-2023 | Android Native Development
-    ├── Java & Kotlin Mastery
-    ├── Firebase Integration
-    ├── RESTful APIs & JSON
-    ├── Material Design Guidelines
-    └── Published 5+ Apps on Play Store
-    
-    📅 2023-2024 | Cross-Platform Expansion
-    ├── Flutter & Dart Proficiency
-    ├── State Management (Provider, Bloc)
-    ├── Advanced UI/UX Design
-    ├── CI/CD Pipeline Setup
-    └── Built 3+ Cross-Platform Apps
-    
-    📅 2024-2025 | Backend & Database
-    ├── Oracle APEX Development
-    ├── Oracle/MySQL/PostgreSQL
-    ├── Database Design & Optimization
-    ├── REST API Development
-    └── Full-Stack Project Delivery
-    
-    📅 2026-Present | Advanced Technologies
-    ├── Cloud Integration (AWS/GCP)
-    ├── Microservices Architecture
-    ├── DevOps & Containerization
-    ├── Advanced Security Practices
-    └── Team Leadership & Mentoring
+    <pre style="color: #00BFFF; font-family: 'Courier New', monospace; font-size: 14px;">
+📅 2021-2022 | Android Native Development
+├── Java & Kotlin Mastery
+├── Firebase Integration
+├── RESTful APIs & JSON
+├── Material Design Guidelines
+└── Published 5+ Apps on Play Store
+
+📅 2022-2023 | Cross-Platform Expansion
+├── Flutter & Dart Proficiency
+├── State Management (Provider, Bloc)
+├── Advanced UI/UX Design
+├── CI/CD Pipeline Setup
+└── Built 3+ Cross-Platform Apps
+
+📅 2023-2024 | Backend & Database
+├── Oracle APEX Development
+├── Oracle/MySQL/PostgreSQL
+├── Database Design & Optimization
+├── REST API Development
+└── Full-Stack Project Delivery
+
+📅 2024-Present | Advanced Technologies
+├── Cloud Integration (AWS/GCP)
+├── Microservices Architecture
+├── DevOps & Containerization
+├── Advanced Security Practices
+└── Team Leadership & Mentoring
     </pre>
-  </div>
-</div>
-
-<br/><br/>
-
-<!-- GitHub Extra Stats -->
-<div align="center">
-  <h2>📈 Additional Stats</h2>
-  
-  <div align="center">
-    <!-- GitHub Profile Details -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin1x0&theme=tokyonight" alt="Profile Details" width="100%"/>
-    
-    <!-- GitHub Stats Cards -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin1x0&theme=tokyonight" width="49%" alt="Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamin1x0&theme=tokyonight&utcOffset=6" width="49%" alt="Productive Time"/>
   </div>
 </div>
 
@@ -334,13 +289,13 @@
   <!-- Primary Contact Buttons -->
   <p align="center">
     <a href="mailto:contact@developer-alamin.web.app" target="_blank">
-      <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&padding=10px" alt="Email" height="50"/>
+      <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
     </a>
     <a href="https://developer-alamin.web.app/#contact" target="_blank">
-      <img src="https://img.shields.io/badge/📞 Hire Me-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&padding=10px" alt="Hire Me" height="50"/>
+      <img src="https://img.shields.io/badge/📞 Hire Me-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="Hire Me"/>
     </a>
-    <a href="https://calendly.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/📅 Schedule Call-00BFFF?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=0D1117&padding=10px" alt="Schedule Call" height="50"/>
+    <a href="https://www.linkedin.com/in/alamin1x0/" target="_blank">
+      <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
     </a>
   </p>
   
@@ -348,36 +303,16 @@
   <h3 align="center">🌐 Social Media</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/alamin1x0/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=30" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=25" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&height=30" alt="Twitter"/>
+    <a href="https://github.com/alamin1x0" target="_blank">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&height=25" alt="GitHub"/>
     </a>
-    <a href="https://stackoverflow.com/users/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&height=30" alt="Stack Overflow"/>
+    <a href="https://www.youtube.com/channel/UCUl5pj84NxFiglFduWqBkKw" target="_blank">
+      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&height=25" alt="YouTube"/>
     </a>
-    <a href="https://dev.to/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=flat-square&logo=dev.to&logoColor=white&height=30" alt="Dev.to"/>
-    </a>
-    <a href="https://medium.com/@alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&height=30" alt="Medium"/>
-    </a>
-    <a href="https://www.instagram.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&height=30" alt="Instagram"/>
-    </a>
-  </p>
-  
-  <!-- Support -->
-  <h3 align="center">☕ Support My Work</h3>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-    </a>
-    <a href="https://ko-fi.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-    </a>
-    <a href="https://patreon.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+    <a href="https://www.facebook.com/alamin1x0page" target="_blank">
+      <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&height=25" alt="Facebook"/>
     </a>
   </p>
 </div>
@@ -388,7 +323,7 @@
 <div align="center">
   
   <!-- Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!&desc=Let's+Build+Something+Amazing+Together&descAlignY=75&stroke=00BFFF&strokeWidth=2" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!&desc=Let's+Build+Something+Amazing+Together&descAlignY=75&stroke=00BFFF&strokeWidth=2" alt="Footer"/>
   
   <!-- Quote -->
   <p align="center" style="margin: 20px 0;">
@@ -398,7 +333,6 @@
   <!-- Info Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Al--Amin-00BFFF?style=for-the-badge" alt="Made with love"/>
-    <img src="https://img.shields.io/badge/Updated-Daily-00BFFF?style=for-the-badge" alt="Updated Daily"/>
     <img src="https://img.shields.io/badge/Status-Active-00BFFF?style=for-the-badge" alt="Active"/>
   </p>
   
@@ -411,11 +345,11 @@
   
   <!-- Copyright -->
   <p align="center">
-    © 2026 Al-Amin | All Rights Reserved
+    © 2024 Al-Amin | All Rights Reserved
   </p>
 </div>
 
 <!-- Visitor Counter -->
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-top: 20px;">
   <img src="https://profile-counter.glitch.me/alamin1x0/count.svg" alt="Visitor Count" />
 </div>
