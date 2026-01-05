@@ -22,7 +22,7 @@
   <div style="max-width: 800px; margin: 0 auto; line-height: 1.6; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 25px; border-radius: 15px; border: 1px solid #334155; box-shadow: 0 10px 30px rgba(0, 191, 255, 0.1);">
     
     <p align="justify">
-      <img align="right" src="https://raw.githubusercontent.com/alamin1x0/alamin1x0/main/images/developer.gif" width="200" height="200" style="border-radius: 10px; margin-left: 20px;">
+      <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" style="border-radius: 10px; margin-left: 20px;">
       
       I'm a passionate <strong>Android & Flutter Developer</strong> with over 3 years of experience creating high-performance mobile applications. 
       My expertise spans native Android development using <strong>Java/Kotlin</strong> and cross-platform solutions with <strong>Flutter & Dart</strong>.
@@ -76,7 +76,7 @@
     <a href="mailto:contact@developer-alamin.web.app" target="_blank">
       <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
     </a>
-    <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+    <a href="https://stackoverflow.com/users/alamin1x0" target="_blank">
       <img src="https://img.shields.io/badge/💬 Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow"/>
     </a>
   </p>
@@ -264,9 +264,9 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alamin1x0&theme=tokyonight&layout=compact&langs_count=8&custom_title=Weekly+Development+Breakdown&range=last_7_days&hide_border=true" alt="WakaTime Stats" width="80%"/>
   </div>
   
-  <!-- Contribution Snake -->
+  <!-- Snake Animation Alternative -->
   <div align="center" style="margin-top: 30px;">
-    <img src="https://raw.githubusercontent.com/alamin1x0/alamin1x0/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+    <img src="https://raw.githubusercontent.com/alamin1x0/alamin1x0/main/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%"/>
   </div>
 </div>
 
@@ -277,7 +277,7 @@
   <h2>📈 Development Journey</h2>
   
   <div style="background: rgba(0, 191, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #334155;">
-    <pre>
+    <pre style="color: #00BFFF; font-family: 'Fira Code', monospace;">
     📅 2022-2023 | Android Native Development
     ├── Java & Kotlin Mastery
     ├── Firebase Integration
@@ -419,28 +419,3 @@
 <div align="center" style="margin-top: 30px;">
   <img src="https://profile-counter.glitch.me/alamin1x0/count.svg" alt="Visitor Count" />
 </div>
-
-<!-- Snake Animation Setup Instructions -->
-<!--
-Create file: .github/workflows/snake.yml with content:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: alamin1x0
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
