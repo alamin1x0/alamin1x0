@@ -18,38 +18,35 @@
 <!-- About Section -->
 <div align="center">
   <h2>🎯 About Me</h2>
-  
-  <div style="max-width: 800px; margin: 0 auto; line-height: 1.6; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 25px; border-radius: 15px; border: 1px solid #334155; box-shadow: 0 10px 30px rgba(0, 191, 255, 0.1);">
-    
-    <p align="justify">
-      <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" style="border-radius: 10px; margin-left: 20px;">
-      
-      I'm a passionate <strong>Android & Flutter Developer</strong> with over 3 years of experience creating high-performance mobile applications. 
-      My expertise spans native Android development using <strong>Java/Kotlin</strong> and cross-platform solutions with <strong>Flutter & Dart</strong>.
-      
-      <br><br>
-      
-      Currently expanding into full-stack development with <strong>Oracle APEX</strong> and mastering various database technologies including 
-      <strong>Oracle Database, MySQL, and PostgreSQL</strong>. I believe in writing clean, maintainable code and creating exceptional user experiences.
-      
-      <br><br>
-      
-      <strong>💡 Core Values:</strong>
-      <br>
-      • Clean Code + User Experience = Success
-      <br>
-      • Continuous Learning & Innovation
-      <br>
-      • Customer Satisfaction First
-      <br>
-      • Transforming Complexity into Simplicity
-      
-      <br><br>
-      
-      <strong>🌱 Currently Learning:</strong> Advanced Oracle APEX, Cloud Integration, Microservices Architecture
-    </p>
-  </div>
+
+  <table>
+    <tr>
+      <td width="70%">
+        <p align="justify">
+          I'm a passionate <strong>Android & Flutter Developer</strong> with over <strong>3+ years</strong> of experience building high-performance mobile applications.
+          I specialize in native Android development using <strong>Java & Kotlin</strong> and cross-platform apps with <strong>Flutter & Dart</strong>.
+          <br><br>
+          Currently expanding into full-stack development with <strong>Oracle APEX</strong> and working with databases like
+          <strong>Oracle DB, MySQL, and PostgreSQL</strong>.
+          I focus on clean, maintainable code and excellent user experience.
+          <br><br>
+          <strong>💡 Core Values:</strong><br>
+          • Clean Code + UX<br>
+          • Continuous Learning<br>
+          • Customer Satisfaction<br>
+          • Simplicity over Complexity
+          <br><br>
+          <strong>🌱 Currently Learning:</strong><br>
+          Advanced Oracle APEX, Cloud Integration, Microservices
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br/><br/>
 
@@ -249,28 +246,28 @@
   
   <div style="background: rgba(0, 191, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #334155;">
     <pre style="color: #00BFFF; font-family: 'Courier New', monospace; font-size: 14px;">
-📅 2021-2022 | Android Native Development
+📅 2022-2023 | Android Native Development
 ├── Java & Kotlin Mastery
 ├── Firebase Integration
 ├── RESTful APIs & JSON
 ├── Material Design Guidelines
 └── Published 5+ Apps on Play Store
 
-📅 2022-2023 | Cross-Platform Expansion
+📅 2023-2024 | Cross-Platform Expansion
 ├── Flutter & Dart Proficiency
 ├── State Management (Provider, Bloc)
 ├── Advanced UI/UX Design
 ├── CI/CD Pipeline Setup
 └── Built 3+ Cross-Platform Apps
 
-📅 2023-2024 | Backend & Database
+📅 2024-2025 | Backend & Database
 ├── Oracle APEX Development
 ├── Oracle/MySQL/PostgreSQL
 ├── Database Design & Optimization
 ├── REST API Development
 └── Full-Stack Project Delivery
 
-📅 2024-Present | Advanced Technologies
+📅 2026-Present | Advanced Technologies
 ├── Cloud Integration (AWS/GCP)
 ├── Microservices Architecture
 ├── DevOps & Containerization
@@ -288,7 +285,7 @@
   
   <!-- Primary Contact Buttons -->
   <p align="center">
-    <a href="mailto:contact@developer-alamin.web.app" target="_blank">
+    <a href="mailto:alaminsakib.cse@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
     </a>
     <a href="https://developer-alamin.web.app/#contact" target="_blank">
@@ -327,7 +324,7 @@
   
   <!-- Quote -->
   <p align="center" style="margin: 20px 0;">
-    <i>"First, solve the problem. Then, write the code." - John Johnson</i>
+    <i>"First, solve the problem. Then, write the code." - Sakib</i>
   </p>
   
   <!-- Info Badges -->
@@ -345,11 +342,11 @@
   
   <!-- Copyright -->
   <p align="center">
-    © 2024 Al-Amin | All Rights Reserved
+    © 2026 Al-Amin | All Rights Reserved
   </p>
 </div>
 
 <!-- Visitor Counter -->
-<div align="center" style="margin-top: 20px;">
+<!-- <div align="center" style="margin-top: 20px;">
   <img src="https://profile-counter.glitch.me/alamin1x0/count.svg" alt="Visitor Count" />
-</div>
+</div> -->
