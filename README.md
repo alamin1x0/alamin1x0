@@ -1,352 +1,143 @@
 <div align="center">
-  
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+HELLO%2C+I'm+Al-Amin;🚀+Android+%26+Flutter+Developer;💻+Full+Stack+Enthusiast;📱+3%2B+Years+of+Experience;🔥+Passionate+About+Innovation" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:111B2E,100:0E7490&height=200&section=header&text=Al-Amin&fontSize=52&fontColor=E6EDF3&fontAlignY=34&desc=Android%20%26amp%3B%20Flutter%20Developer&descSize=20&descAlignY=56&animation=fadeIn" alt="Al-Amin — Android & Flutter Developer" width="100%"/>
+
+**Mobile apps for finance, payments, field sales, HR and education — built with Kotlin, Java and Flutter.**
+
+📍 Dhaka, Bangladesh &nbsp;·&nbsp; 💼 4+ years &nbsp;·&nbsp; 📱 30+ apps &nbsp;·&nbsp; 🏆 Employee of the Year 2025
+
+[**Portfolio →**](https://developer-alamin.web.app/)
+
+</div>
+
+## About Me
+
+I'm a mobile app developer at **Webns Technology Ltd.**, building production apps used by real businesses in Bangladesh — from Bangla-first finance and payment apps to pharma field-sales and HR portals.
+
+- 🎓 BSc in Computer Science & Engineering, Southeast University
+- 🧭 I work across the whole mobile stack: UI, architecture, REST/Firebase backends and the database behind them
+- 🤝 Open to freelance projects and full-time mobile roles
+
+## Technical Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,firebase,spring,mysql,postgres,python,php,git&theme=dark&perline=12" alt="Kotlin, Java, Flutter, Dart, Android Studio, Firebase, Spring Boot, MySQL, PostgreSQL, Python, PHP, Git"/>
 </p>
 
-<!-- Profile Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alamin1x0&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="visitors">
-  <img src="https://img.shields.io/github/followers/alamin1x0?color=00BFFF&style=for-the-badge&logo=github" alt="followers">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="hire me">
-  <img src="https://img.shields.io/badge/Available%20for%20Projects-00BFFF?style=for-the-badge&logo=handshake&logoColor=white" alt="projects">
+| Area | Skills |
+|---|---|
+| **Android** | Kotlin, Java, XML layouts, MVVM, Room, Retrofit, Coroutines, Navigation, Material Design |
+| **Flutter** | Dart, GetX, Provider, Firebase, REST APIs |
+| **Backend & data** | Firebase (Auth, Firestore, Realtime DB, FCM, Storage), REST API integration, Razorpay, Spring Boot, Oracle APEX, PL/SQL, MySQL, PostgreSQL |
+| **Tools** | Git, GitHub, Android Studio, Postman, Linux |
+| **Currently learning** | Jetpack Compose, Clean Architecture, automated testing |
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Chat AI Guru](https://github.com/alamin1x0/Chat-Ai-Guru-User)
+AI assistant app with chat, writing and image tools.
+
+**Stack:** Flutter · Dart · GetX · Firebase · ML Kit
+
+- AI chat with history, voice input and text-to-speech
+- Image generator, text scanner (OCR) and translator
+- Email, essay, CV and caption writers
+- 6 app languages, Google / Apple / phone sign-in, fingerprint lock
+
+[Code](https://github.com/alamin1x0/Chat-Ai-Guru-User) · [Live](https://aiguruapp.web.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [School Management System](https://github.com/alamin1x0/School-Management-System)
+Complete school app for students, teachers and admissions. ⭐ 17 stars
+
+**Stack:** Java · Firebase · Glide
+
+- Online admission form, student lists and exam results
+- Notices, faculty, gallery and video lectures
+- Quizzes with scores and an e-book library with PDF viewer
+- Phone OTP login and push notifications (FCM)
+
+[Code](https://github.com/alamin1x0/School-Management-System) · [Admin app](https://github.com/alamin1x0/School-Management-System-Admin)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PKart](https://github.com/alamin1x0/PKart)
+E-commerce system with a customer app and an admin app.
+
+**Stack:** Kotlin · Firestore · Room · Razorpay
+
+- Phone-number sign-in, cart and online checkout
+- Admin manages categories, products and order approval
+- Order delivery flow from request to dispatch
+
+[Code](https://github.com/alamin1x0/PKart)
+
+</td>
+<td width="50%" valign="top">
+
+### [Blood Donation](https://github.com/alamin1x0/Blood-Donation)
+Connects people who need blood with donors.
+
+**Stack:** Kotlin · Firebase · Lottie
+
+- Sign up, login and password reset
+- Searchable donor list with location and address
+- Donor profiles and onboarding screens
+
+[Code](https://github.com/alamin1x0/Blood-Donation)
+
+</td>
+</tr>
+</table>
+
+More: [Notes-MVVM-Kotlin](https://github.com/alamin1x0/Notes-MVVM-Kotlin) (Room + MVVM) · [Quran-App](https://github.com/alamin1x0/Quran-App) (Retrofit + MVVM) · [eShopping](https://github.com/alamin1x0/eShopping) (Java + Firebase) · [all repositories](https://github.com/alamin1x0?tab=repositories)
+
+## Experience & Achievements
+
+| Role | Company | Period |
+|---|---|---|
+| **Mobile App Developer** | Webns Technology Ltd. | Jan 2024 – Present |
+| **Junior Mobile App Developer** | SoftLab IT | Aug 2022 – Dec 2023 |
+
+- 🏆 **Employee of the Year 2025** — Webns Technology Ltd.
+- 📱 Shipped apps include **Cash Boi** (Bangla personal finance), **PataPay** (recharge and bill pay), **StepsSRS** (pharma field sales), an **HR & Finance Portal**, a **Student Portal** and **Mil Khata** (mess management) — screenshots on my [portfolio](https://developer-alamin.web.app/)
+
+## GitHub Analytics
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin1x0&theme=github_dark" alt="GitHub contributions over the last year: about 2.7k contributions across 81 public repositories"/>
+  <br/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=alamin1x0&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&sideNums=E6EDF3&currStreakNum=E6EDF3" alt="GitHub contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0&layout=compact&langs_count=6&hide=c%23,makefile,c%2B%2B,cmake&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages: Java, Dart, Kotlin and JavaScript"/>
+</div>
+
+## Engineering Principles
+
+- **Simple first** — the simplest design that solves the real problem
+- **Readable code** — clear names, small classes, separated UI and data layers
+- **Built for real users** — fast screens, offline-friendly data, and Bangla and English where it matters
+- **Secure by default** — validated input, protected data, and no secrets in source code
+
+## Connect With Me
+
+<p>
+  <a href="https://developer-alamin.web.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/alamin1x0/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+  <a href="mailto:alaminsakib.cse@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email: alaminsakib.cse@gmail.com"/></a>
+  <a href="https://t.me/alamin1x0"><img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram"/></a>
+  <a href="https://www.youtube.com/channel/UCUl5pj84NxFiglFduWqBkKw"><img src="https://img.shields.io/badge/YouTube-0B1220?style=for-the-badge&logo=youtube&logoColor=22D3EE" alt="YouTube"/></a>
+  <a href="https://www.facebook.com/alamin1x0page"><img src="https://img.shields.io/badge/Facebook-0B1220?style=for-the-badge&logo=facebook&logoColor=22D3EE" alt="Facebook"/></a>
 </p>
 
-</div>
+📧 **alaminsakib.cse@gmail.com**
 
-<!-- About Section -->
-<div align="center">
-  <h2>🎯 About Me</h2>
-
-  <table>
-    <tr>
-      <td width="70%">
-        <p align="justify">
-          I'm a passionate <strong>Android & Flutter Developer</strong> with over <strong>3+ years</strong> of experience building high-performance mobile applications.
-          I specialize in native Android development using <strong>Java & Kotlin</strong> and cross-platform apps with <strong>Flutter & Dart</strong>.
-          <br><br>
-          Currently expanding into full-stack development with <strong>Oracle APEX</strong> and working with databases like
-          <strong>Oracle DB, MySQL, and PostgreSQL</strong>.
-          I focus on clean, maintainable code and excellent user experience.
-          <br><br>
-          <strong>💡 Core Values:</strong><br>
-          • Clean Code + UX<br>
-          • Continuous Learning<br>
-          • Customer Satisfaction<br>
-          • Simplicity over Complexity
-          <br><br>
-          <strong>🌱 Currently Learning:</strong><br>
-          Advanced Oracle APEX, Cloud Integration, Microservices
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<br/><br/>
-
-<!-- Quick Links -->
-<div align="center">
-  <h2>🔗 Connect With Me</h2>
-  
-  <p align="center">
-    <a href="https://developer-alamin.web.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐 Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/alamin1x0/" target="_blank">
-      <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/🐱 GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCUl5pj84NxFiglFduWqBkKw" target="_blank">
-      <img src="https://img.shields.io/badge/🎬 YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
-    </a>
-    <a href="https://www.facebook.com/alamin1x0page" target="_blank">
-      <img src="https://img.shields.io/badge/📘 Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/>
-    </a>
-    <a href="mailto:contact@developer-alamin.web.app" target="_blank">
-      <img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-    </a>
-  </p>
-</div>
-
-<br/><br/>
-
-<!-- Tech Stack -->
-<div align="center">
-  <h2>🛠️ Tech Stack & Skills</h2>
-  
-  <!-- Mobile Development -->
-  <h3 align="center">📱 Mobile Development</h3>
-  <div align="center" style="background: rgba(0, 191, 255, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
-  </div>
-  
-  <!-- Oracle Technologies -->
-  <h3 align="center">🗄️ Oracle Technologies</h3>
-  <div align="center" style="background: rgba(248, 0, 0, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX"/>
-    <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
-    <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
-    <img src="https://img.shields.io/badge/APEX%20REST-FF6C37?style=for-the-badge&logo=rest&logoColor=white" alt="APEX REST"/>
-    <img src="https://img.shields.io/badge/APEX%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="APEX JS"/>
-  </div>
-  
-  <!-- Database Technologies -->
-  <h3 align="center">💾 Databases</h3>
-  <div align="center" style="background: rgba(100, 255, 218, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  </div>
-  
-  <!-- Web Development -->
-  <h3 align="center">🌐 Web Development</h3>
-  <div align="center" style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-    <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
-    <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
-  </div>
-  
-  <!-- Tools & Platforms -->
-  <h3 align="center">⚙️ Tools & Platforms</h3>
-  <div align="center" style="background: rgba(255, 193, 7, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </div>
-  
-  <!-- Programming Languages -->
-  <h3 align="center">💻 Programming Languages</h3>
-  <div align="center" style="background: rgba(103, 58, 183, 0.1); padding: 15px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  </div>
-</div>
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Stats Row 1 -->
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alamin1x0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&show=reviews,discussions_started,discussions_answered&include_all_commits=true&custom_title=Al-Amin's+GitHub+Stats" alt="GitHub Stats"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin1x0&theme=tokyonight&hide_border=true&background=0D1117&fire=00BFFF&currStreakLabel=00BFFF&ring=00BFFF&sideLabels=00BFFF&sideNums=00BFFF&dates=00BFFF" alt="GitHub Streak"/>
-  </div>
-  
-  <!-- Stats Row 2 -->
-  <div align="center" style="margin-top: 20px;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin1x0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=github-readme-stats&card_width=400&custom_title=Most+Used+Languages" alt="Top Languages"/>
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=alamin1x0&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers" alt="GitHub Trophies"/>
-  </div>
-  
-  <!-- Activity Graph -->
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alamin1x0&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=My+Contribution+Activity&line=00BFFF&point=00BFFF&color=00BFFF&area_color=00BFFF&title_color=00BFFF&border_color=00BFFF" alt="Activity Graph" width="100%"/>
-  </div>
-</div>
-
-<br/><br/>
-
-<!-- Projects Section -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  
-  <div align="center">
-    <table width="100%">
-      <tr>
-        <td width="50%" valign="top">
-          <h3 align="center">📱 Android Projects</h3>
-          <div style="background: rgba(61, 220, 132, 0.1); padding: 15px; border-radius: 10px;">
-            <a href="https://github.com/alamin1x0?tab=repositories&q=android&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=Android-ECommerce-App&theme=tokyonight&show_owner=true" alt="Android E-Commerce"/>
-            </a>
-            <br/>
-            <a href="https://github.com/alamin1x0?tab=repositories&q=kotlin&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=Weather-App-Kotlin&theme=tokyonight&show_owner=true" alt="Weather App"/>
-            </a>
-          </div>
-        </td>
-        <td width="50%" valign="top">
-          <h3 align="center">🎯 Flutter Projects</h3>
-          <div style="background: rgba(1, 124, 194, 0.1); padding: 15px; border-radius: 10px;">
-            <a href="https://github.com/alamin1x0?tab=repositories&q=flutter&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=Flutter-News-App&theme=tokyonight&show_owner=true" alt="Flutter News App"/>
-            </a>
-            <br/>
-            <a href="https://github.com/alamin1x0?tab=repositories&q=dart&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=Task-Management-App&theme=tokyonight&show_owner=true" alt="Task Management"/>
-            </a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" valign="top" style="padding-top: 20px;">
-          <h3 align="center">🗄️ Oracle APEX Projects</h3>
-          <div style="background: rgba(248, 0, 0, 0.1); padding: 15px; border-radius: 10px;">
-            <a href="https://github.com/alamin1x0?tab=repositories&q=apex&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=Oracle-APEX-CRM&theme=tokyonight&show_owner=true" alt="Oracle APEX CRM"/>
-            </a>
-            <br/>
-            <a href="https://github.com/alamin1x0?tab=repositories&q=oracle&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=Inventory-Management-System&theme=tokyonight&show_owner=true" alt="Inventory System"/>
-            </a>
-          </div>
-        </td>
-        <td width="50%" valign="top" style="padding-top: 20px;">
-          <h3 align="center">💾 Database Projects</h3>
-          <div style="background: rgba(100, 255, 218, 0.1); padding: 15px; border-radius: 10px;">
-            <a href="https://github.com/alamin1x0?tab=repositories&q=database&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=School-Management-DB&theme=tokyonight&show_owner=true" alt="School Management DB"/>
-            </a>
-            <br/>
-            <a href="https://github.com/alamin1x0?tab=repositories&q=mysql&type=source">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=alamin1x0&repo=E-Commerce-Database&theme=tokyonight&show_owner=true" alt="E-Commerce DB"/>
-            </a>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<br/><br/>
-
-<!-- Development Journey -->
-<div align="center">
-  <h2>📈 Development Journey</h2>
-  
-  <div style="background: rgba(0, 191, 255, 0.05); padding: 20px; border-radius: 15px; border: 1px solid #334155;">
-    <pre style="color: #00BFFF; font-family: 'Courier New', monospace; font-size: 14px;">
-📅 2022-2023 | Android Native Development
-├── Java & Kotlin Mastery
-├── Firebase Integration
-├── RESTful APIs & JSON
-├── Material Design Guidelines
-└── Published 5+ Apps on Play Store
-
-📅 2023-2024 | Cross-Platform Expansion
-├── Flutter & Dart Proficiency
-├── State Management (Provider, Bloc)
-├── Advanced UI/UX Design
-├── CI/CD Pipeline Setup
-└── Built 3+ Cross-Platform Apps
-
-📅 2024-2025 | Backend & Database
-├── Oracle APEX Development
-├── Oracle/MySQL/PostgreSQL
-├── Database Design & Optimization
-├── REST API Development
-└── Full-Stack Project Delivery
-
-📅 2026-Present | Advanced Technologies
-├── Cloud Integration (AWS/GCP)
-├── Microservices Architecture
-├── DevOps & Containerization
-├── Advanced Security Practices
-└── Team Leadership & Mentoring
-    </pre>
-  </div>
-</div>
-
-<br/><br/>
-
-<!-- Contact Section -->
-<div align="center">
-  <h2>📬 Get In Touch</h2>
-  
-  <!-- Primary Contact Buttons -->
-  <p align="center">
-    <a href="mailto:alaminsakib.cse@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
-    </a>
-    <a href="https://developer-alamin.web.app/#contact" target="_blank">
-      <img src="https://img.shields.io/badge/📞 Hire Me-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="Hire Me"/>
-    </a>
-    <a href="https://www.linkedin.com/in/alamin1x0/" target="_blank">
-      <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-    </a>
-  </p>
-  
-  <!-- Social Media -->
-  <h3 align="center">🌐 Social Media</h3>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/alamin1x0/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=25" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/alamin1x0" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&height=25" alt="GitHub"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCUl5pj84NxFiglFduWqBkKw" target="_blank">
-      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&height=25" alt="YouTube"/>
-    </a>
-    <a href="https://www.facebook.com/alamin1x0page" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&height=25" alt="Facebook"/>
-    </a>
-  </p>
-</div>
-
-<br/><br/>
-
-<!-- Footer -->
-<div align="center">
-  
-  <!-- Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&fontSize=30&fontAlignY=65&text=Thanks+For+Visiting!&desc=Let's+Build+Something+Amazing+Together&descAlignY=75&stroke=00BFFF&strokeWidth=2" alt="Footer"/>
-  
-  <!-- Quote -->
-  <p align="center" style="margin: 20px 0;">
-    <i>"First, solve the problem. Then, write the code." - Sakib</i>
-  </p>
-  
-  <!-- Info Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Al--Amin-00BFFF?style=for-the-badge" alt="Made with love"/>
-    <img src="https://img.shields.io/badge/Status-Active-00BFFF?style=for-the-badge" alt="Active"/>
-  </p>
-  
-  <!-- Back to Top -->
-  <p align="center">
-    <a href="#top">
-      <img src="https://img.shields.io/badge/⬆️ Back to Top-00BFFF?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top"/>
-    </a>
-  </p>
-  
-  <!-- Copyright -->
-  <p align="center">
-    © 2026 Al-Amin | All Rights Reserved
-  </p>
-</div>
-
-<!-- Visitor Counter -->
-<!-- <div align="center" style="margin-top: 20px;">
-  <img src="https://profile-counter.glitch.me/alamin1x0/count.svg" alt="Visitor Count" />
-</div> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,40:111B2E,100:0B1220&height=90&section=footer" alt="" width="100%"/>
